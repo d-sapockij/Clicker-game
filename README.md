@@ -1,2 +1,4 @@
-# clicker-game
-Simple browser clicker game
+# Игра кликер
+Простая браузерная игра, сделанная с помошью [видеоурока](https://www.youtube.com/watch?v=sn1ffZ6I9Qw)
+
+- Добавлена возможность начать игру заново без перезагрузки страницы
